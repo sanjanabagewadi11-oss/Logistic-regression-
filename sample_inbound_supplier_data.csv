@@ -1,0 +1,181 @@
+supplier,material,quoted_lead_time_days,actual_lead_time_days,daily_demand_units,current_stock_units,unit_cost
+SUP-A,Steel Coil,6,7,73,270,18.25
+SUP-D,Resin,5,8,15,160,27.91
+SUP-E,Fasteners,4,5,46,618,13.95
+SUP-E,Steel Coil,5,7,66,615,24.68
+SUP-A,Copper Wire,7,9,38,209,25.34
+SUP-A,Copper Wire,6,7,68,459,37.34
+SUP-B,Copper Wire,3,6,26,177,21.85
+SUP-C,Fasteners,4,6,32,527,18.85
+SUP-D,Resin,4,6,34,121,29.84
+SUP-A,Resin,7,7,50,474,37.63
+SUP-C,Fasteners,5,5,16,397,13.64
+SUP-A,Steel Coil,4,3,22,169,13.63
+SUP-C,Fasteners,7,9,74,277,6.35
+SUP-C,Fasteners,7,8,28,284,7.38
+SUP-B,Fasteners,5,7,68,549,7.98
+SUP-D,Fasteners,5,12,19,433,30.27
+SUP-D,Fasteners,6,10,44,347,22.12
+SUP-C,Fasteners,4,4,30,448,28.38
+SUP-D,Fasteners,6,12,40,151,33.76
+SUP-D,Copper Wire,5,5,16,442,19.42
+SUP-C,Resin,6,7,29,426,19.73
+SUP-B,Fasteners,7,10,37,597,28.1
+SUP-D,Resin,3,3,53,681,27.49
+SUP-A,Packaging,5,4,38,156,39.28
+SUP-A,Packaging,6,7,42,641,34.68
+SUP-A,Packaging,6,7,54,180,15.43
+SUP-B,Copper Wire,4,3,15,300,32.96
+SUP-B,Packaging,7,11,68,443,28.81
+SUP-D,Resin,7,7,18,559,27.32
+SUP-D,Packaging,3,7,35,189,31.31
+SUP-A,Fasteners,5,5,65,643,37.83
+SUP-C,Fasteners,5,7,71,300,8.64
+SUP-B,Steel Coil,7,9,71,534,2.31
+SUP-E,Fasteners,3,6,34,227,30.97
+SUP-E,Packaging,7,8,29,602,10.62
+SUP-B,Packaging,4,7,39,154,12.74
+SUP-A,Copper Wire,3,4,33,468,10.17
+SUP-E,Resin,5,7,48,689,27.63
+SUP-E,Copper Wire,4,2,16,628,15.97
+SUP-B,Copper Wire,5,8,42,546,18.3
+SUP-A,Resin,3,4,35,655,30.44
+SUP-A,Packaging,7,8,55,373,21.54
+SUP-C,Steel Coil,5,5,43,199,16.99
+SUP-C,Steel Coil,6,6,18,655,2.13
+SUP-B,Packaging,5,8,37,301,31.33
+SUP-B,Fasteners,6,10,66,272,4.15
+SUP-C,Resin,6,6,44,633,22.58
+SUP-D,Copper Wire,7,6,19,367,12.11
+SUP-C,Copper Wire,6,6,71,592,22.08
+SUP-D,Copper Wire,4,7,30,615,18.6
+SUP-A,Copper Wire,4,4,34,398,33.11
+SUP-C,Packaging,3,4,57,369,12.19
+SUP-E,Fasteners,6,6,52,242,11.22
+SUP-D,Packaging,7,9,25,271,22.08
+SUP-A,Resin,3,4,32,638,34.73
+SUP-B,Copper Wire,5,8,30,113,29.37
+SUP-E,Copper Wire,7,6,70,461,26.03
+SUP-E,Steel Coil,6,8,73,577,6.87
+SUP-A,Resin,3,2,25,549,5.23
+SUP-E,Packaging,5,6,24,229,29.85
+SUP-D,Copper Wire,7,12,31,103,26.3
+SUP-D,Fasteners,5,6,42,165,7.62
+SUP-E,Packaging,6,8,31,424,24.74
+SUP-A,Fasteners,4,5,59,361,17.29
+SUP-E,Resin,5,3,21,236,11.6
+SUP-E,Packaging,3,2,67,132,29.67
+SUP-D,Packaging,6,7,20,462,14.55
+SUP-A,Copper Wire,6,7,16,135,32.7
+SUP-A,Fasteners,5,5,50,206,23.1
+SUP-D,Resin,4,8,16,427,38.77
+SUP-B,Resin,6,10,43,516,15.83
+SUP-C,Copper Wire,6,7,23,398,17.78
+SUP-E,Resin,5,6,55,694,36.02
+SUP-A,Packaging,6,7,17,197,25.2
+SUP-A,Fasteners,6,6,62,516,7.31
+SUP-E,Steel Coil,4,6,37,511,6.36
+SUP-A,Packaging,6,6,64,499,31.02
+SUP-C,Fasteners,5,5,64,283,22.23
+SUP-E,Copper Wire,5,9,69,395,26.52
+SUP-D,Packaging,5,3,40,162,29.97
+SUP-C,Copper Wire,6,6,63,352,31.87
+SUP-E,Steel Coil,4,7,48,126,31.23
+SUP-D,Copper Wire,7,10,36,246,21.65
+SUP-D,Steel Coil,5,8,69,318,16.75
+SUP-C,Fasteners,6,6,18,140,29.12
+SUP-D,Copper Wire,7,9,50,552,22.11
+SUP-B,Steel Coil,3,3,48,274,17.32
+SUP-E,Fasteners,7,7,66,430,14.8
+SUP-A,Copper Wire,3,3,45,310,3.39
+SUP-A,Fasteners,6,5,62,293,14.42
+SUP-A,Fasteners,4,4,26,686,20.2
+SUP-B,Resin,6,10,43,693,35.54
+SUP-B,Packaging,7,6,69,405,14.2
+SUP-C,Packaging,4,3,58,448,11.69
+SUP-E,Resin,7,6,40,590,3.23
+SUP-E,Resin,6,5,44,243,8.86
+SUP-A,Steel Coil,5,7,32,371,26.91
+SUP-A,Packaging,7,7,60,352,38.94
+SUP-E,Steel Coil,4,7,68,609,29.11
+SUP-E,Fasteners,5,7,73,341,15.53
+SUP-C,Resin,5,6,60,110,7.59
+SUP-D,Steel Coil,4,6,40,116,24.14
+SUP-C,Copper Wire,7,7,36,223,22.47
+SUP-C,Resin,6,7,69,449,8.87
+SUP-A,Steel Coil,7,7,31,409,6.14
+SUP-C,Copper Wire,5,5,43,446,29.33
+SUP-A,Resin,6,7,68,449,15.51
+SUP-D,Resin,5,10,17,549,21.3
+SUP-B,Steel Coil,6,7,45,690,6.4
+SUP-E,Packaging,5,6,45,685,32.09
+SUP-D,Fasteners,4,9,35,185,31.15
+SUP-E,Fasteners,4,7,28,689,7.18
+SUP-E,Copper Wire,4,6,46,218,25.16
+SUP-C,Packaging,6,7,50,162,16.97
+SUP-C,Packaging,3,3,46,542,8.38
+SUP-E,Steel Coil,5,5,56,384,21.59
+SUP-B,Packaging,4,1,39,341,39.75
+SUP-D,Fasteners,5,10,64,359,2.11
+SUP-C,Copper Wire,6,7,23,253,20.23
+SUP-E,Packaging,6,10,17,129,3.88
+SUP-C,Resin,3,4,35,425,37.37
+SUP-D,Packaging,5,10,53,388,34.38
+SUP-A,Fasteners,5,3,40,375,20.69
+SUP-A,Packaging,5,4,74,659,16.89
+SUP-E,Copper Wire,6,4,16,621,15.57
+SUP-B,Packaging,5,7,33,439,39.45
+SUP-E,Copper Wire,7,9,49,657,6.18
+SUP-D,Packaging,3,4,19,136,3.94
+SUP-E,Packaging,7,8,62,502,9.94
+SUP-A,Fasteners,5,5,61,189,29.03
+SUP-E,Resin,6,6,38,174,3.4
+SUP-A,Steel Coil,3,3,41,424,16.17
+SUP-B,Packaging,6,11,30,144,11.34
+SUP-B,Packaging,3,1,63,462,11.52
+SUP-C,Resin,4,6,44,287,5.38
+SUP-C,Steel Coil,5,6,50,518,36.1
+SUP-C,Fasteners,5,5,36,377,31.43
+SUP-D,Steel Coil,3,7,66,185,33.27
+SUP-D,Packaging,5,8,55,226,13.25
+SUP-A,Copper Wire,6,6,61,620,6.22
+SUP-C,Steel Coil,7,7,68,529,14.22
+SUP-B,Resin,6,6,63,202,7.64
+SUP-D,Packaging,7,14,35,408,24.72
+SUP-E,Steel Coil,7,9,51,211,19.95
+SUP-C,Copper Wire,7,9,21,386,27.48
+SUP-B,Packaging,4,5,56,222,6.1
+SUP-C,Resin,5,5,28,300,4.24
+SUP-E,Steel Coil,6,6,19,571,17.7
+SUP-A,Steel Coil,5,5,65,573,14.77
+SUP-D,Fasteners,6,10,72,333,25.27
+SUP-B,Steel Coil,4,4,19,608,6.74
+SUP-D,Packaging,5,8,15,163,15.62
+SUP-A,Packaging,3,3,68,154,16.64
+SUP-A,Resin,5,5,29,235,30.82
+SUP-E,Steel Coil,6,10,63,478,4.45
+SUP-A,Resin,7,7,19,611,32.93
+SUP-B,Fasteners,3,8,40,476,26.63
+SUP-A,Fasteners,3,2,44,447,17.87
+SUP-A,Steel Coil,6,8,45,110,23.91
+SUP-E,Fasteners,6,7,49,159,16.81
+SUP-D,Steel Coil,6,6,49,661,25.46
+SUP-D,Steel Coil,7,11,55,195,6.51
+SUP-B,Copper Wire,4,3,38,358,8.02
+SUP-E,Resin,5,3,39,346,4.39
+SUP-D,Steel Coil,3,6,32,593,10.98
+SUP-B,Packaging,5,11,52,349,24.75
+SUP-A,Resin,4,3,18,657,25.43
+SUP-D,Fasteners,7,9,57,598,2.79
+SUP-C,Packaging,5,5,68,358,6.1
+SUP-D,Packaging,5,4,38,613,5.06
+SUP-C,Packaging,5,4,66,153,14.63
+SUP-A,Resin,6,7,67,669,10.39
+SUP-D,Resin,5,8,56,316,20.62
+SUP-D,Resin,6,12,35,371,29.88
+SUP-C,Fasteners,7,7,29,319,21.96
+SUP-C,Fasteners,6,5,34,374,34.88
+SUP-E,Steel Coil,6,7,73,288,21.07
+SUP-D,Packaging,5,7,15,110,21.54
+SUP-C,Steel Coil,5,5,57,142,19.78
+SUP-E,Steel Coil,6,8,19,276,39.37
