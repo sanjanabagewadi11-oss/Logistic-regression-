@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # ==========================================================
 
 st.set_page_config(
-    page_title="ABC Auto Components",
+    page_title="MetalPulse",
     page_icon="🏭",
     layout="wide"
 )
@@ -19,7 +19,7 @@ st.set_page_config(
 # 1. COMPANY INFORMATION
 # ----------------------------------------------------------
 
-COMPANY = "ABC Auto Components Pvt. Ltd."
+COMPANY = "MetalPulse Pvt.Ltd"
 
 MATERIALS = [
     "Steel Sheets",
